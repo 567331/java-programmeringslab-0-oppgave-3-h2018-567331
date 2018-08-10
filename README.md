@@ -1,2 +1,2 @@
-# dat100-oppgave1-2017
-Oppgave for første programmeringslab
+# DAT100
+Kode for oppgave - første programmeringslab
